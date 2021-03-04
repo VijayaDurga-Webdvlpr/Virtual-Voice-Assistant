@@ -1,2 +1,2 @@
 # Virtual-Voice-Assistant
-This PROJECT basically listens and talks back to your commands.
+This Assistant ALEXA listens,follows and talks back to our commands.
