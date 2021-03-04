@@ -1,0 +1,8 @@
+To Install Modules
+1.pip install speechRecognition
+2.pip install pyttsx3
+3.pip install wikipedia
+4.pip install pywhatkit
+5.pip install pyjokes
+6.pip install pyaudio
+
